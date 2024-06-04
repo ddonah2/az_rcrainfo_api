@@ -19,17 +19,17 @@ To be written
 
 The EPA Data Request Console uses two EPA services EPA RCRAInfo public APIs, and the EPA eManifest Module. All the information provided by the EPA RCRAInfo APIs are publicly accessible, but the information provided by the eManifest module is not. In order to use any of the eManifest queries, you will need a RCRAInfo API Key and ID. To get access to these you will need a RCRAInfo account with API Access. This can be done by [[a RCRAInfo administrator in your department and requesting access]].
 
-Once you have API access, you will need to log into RCRAInfo, and navigate to the Documentation tab on the blue navigation bar at the top of the screen.
+Once you have API access, you will need to log into RCRAInfo, and navigate to the Tools tab on the blue navigation bar at the top of the screen.
 
-
+![RCRAInfo main navigation tab with Tools tab highlighted](readme_photos/tools.png)
 
 When your mouse hovers over the tools tab, a dropdown menu will appear. Click on the ‘Translation/API Maintenance’ option. 
 
-
+![Documentation tab dropdown with Translation/API Maintenance option highlighted](readme_photos/translation-api_maintenance.png)
 
 Once you click on the “Translation/API Maintenance” option, you will be directed to a new page. A second navigation bar will appear below the main navigation bar with the options “Overview”, “Direct Upload”, “Manage API” and “Audit API”. Click on the “Manage API” option. 
 
-
+![Toolbar in Translation/API Maintenance with Manage API Highlighted](readme_photos/manage-api.png)
 
 If you have already generated a key, this page will look slightly different, but there will be a blue button at the bottom of the following tab saying either “Generate API Key” or “Regenerate API Key”. Click on this button and the API key will be generated. Copy the API Key to a secure location as you will not be able to access it again without regenerating the API Key. The API ID will not change and you will be able to always access it from this tab without regenerating the key. 
 
